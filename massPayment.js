@@ -8,9 +8,9 @@ var request = require('request');
  *      - apiKey: the API key of the node that is used for distribution
  */
 var config = {
-    filename: 'test.json',
-    node: 'http://<ip>:<port>',
-    apiKey: 'put the apiKey for the node here'
+    filename: 'test3.json',
+    node: 'http://5.189.156.200:6869',
+    apiKey: 'HGV3Gsma3csjWrM1GG3EKe8tMqzh8Te15K6sphLrfT6e'
 };
 
 /**
