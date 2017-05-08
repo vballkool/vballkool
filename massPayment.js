@@ -10,7 +10,7 @@ var request = require('request');
 var config = {
     filename: 'test3.json',
     node: 'http://5.189.156.200:6869',
-    apiKey: 'HGV3Gsma3csjWrM1GG3EKe8tMqzh8Te15K6sphLrfT6e'
+    apiKey: 'testapi'
 };
 
 /**
