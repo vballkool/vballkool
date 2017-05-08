@@ -16,7 +16,7 @@ var config = {
     startBlockHeight: 482284,
     endBlock: 486552,
     distributableMrtPerBlock: 40,
-    filename: 'test.json',
+    filename: 'test2.json',
     node: 'http://5.189.156.200:6869',
     percentageOfFeesToDistribute: 100
 };
