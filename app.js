@@ -12,7 +12,7 @@ var fs = require('fs');
   *     - percentageOfFeesToDistribute: the percentage of Waves fees that you want to distribute
  */
 var config = {
-     address: '',
+     address: '3PDxnbR1UTXrj84smhUP5m8WidRJjujfmCm',
     startBlockHeight: 480052,
     endBlock: 486458,
     distributableMrtPerBlock: 40,
