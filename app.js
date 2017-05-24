@@ -15,7 +15,7 @@ var config = {
      address: '3PDxnbR1UTXrj84smhUP5m8WidRJjujfmCm',
     startBlockHeight: 491397,
     endBlock: 502986,
-    distributableMrtPerBlock: 40,
+    distributableMrtPerBlock: 30,
     filename: 'test4.json',
     node: 'http://5.189.156.200:6869',
     percentageOfFeesToDistribute: 100
