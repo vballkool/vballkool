@@ -13,8 +13,8 @@ var fs = require('fs');
  */
 var config = {
      address: '3PDxnbR1UTXrj84smhUP5m8WidRJjujfmCm',
-    startBlockHeight: 542179,
-    endBlock: 551944,
+    startBlockHeight: 551945,
+    endBlock: 560974,
     distributableMrtPerBlock: 30,
     filename: 'test4.json',
     node: 'http://5.189.156.200:6869',
