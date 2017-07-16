@@ -15,12 +15,12 @@ var fs = require('fs');
   *     - blockStorage: file for storing block history
  */
 var config = {
-    address: '',
+    address: '3PDxnbR1UTXrj84smhUP5m8WidRJjujfmCm',
     startBlockHeight: 462000,
     endBlock: 465000,
-    distributableMrtPerBlock: 15,
-    filename: 'test.json',
-    node: 'http://localhost:6870',
+    distributableMrtPerBlock: 30,
+    filename: 'test5.json',
+    node: 'http://5.189.156.200:6869',
     percentageOfFeesToDistribute: 100,
     blockStorage: 'blocks.json'
 };
